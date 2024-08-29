@@ -4,6 +4,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+#  App Screenshots:
+<img src="https://github.com/user-attachments/assets/f5ffc602-091a-46a8-9e8b-87a1f638232a" width="200"> <img src="https://github.com/user-attachments/assets/49af9938-16c1-4e0b-b856-6f6d22483a19" width="200">
+
+<img src="https://github.com/user-attachments/assets/eb81cf30-eb95-4273-94d0-953e93b6d033" width="200"> <img src="https://github.com/user-attachments/assets/ba4373aa-5cb5-4842-81d3-b72267de820d" width="200">
+
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
